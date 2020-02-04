@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Fox Harbor"
+categories: [Greenlight]
+tags: [greenlight, playtest]
+---
+
 # Fox Harbor
 
 Fox Harbor is a roleplaying game in which your group will create your own television series. Each player will develop a character that is the star of their own story-line. Together, you will explore the interconnected stories of an entire television season in a single session.
